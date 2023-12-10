@@ -1,0 +1,4 @@
+brand_name,model,price,rating,has_5g,has_nfc,has_ir_blaster,processor_brand,num_cores,processor_speed,battery_capacity,fast_charging_available,fast_charging,ram_capacity,internal_memory,screen_size,refresh_rate,resolution,num_rear_cameras,num_front_cameras,os,primary_camera_rear,primary_camera_front,extended_memory_available,extended_upto
+oneplus,OnePlus 11 5G,54999,89,TRUE,TRUE,FALSE,snapdragon,8,3.2,5000,1,100,12,256,6.7,120,1440 x 3216 ,3,1,android,50,16,0,
+oneplus,OnePlus Nord CE 2 Lite 5G,19989,81,TRUE,FALSE,FALSE,snapdragon,8,2.2,5000,1,33,6,128,6.59,120,1080 x 2412 ,3,1,android,64,16,1,1024
+samsung,Samsung Galaxy A14 5G,16499,75,TRUE,FALSE,FALSE,exynos,8,2.4,5000,1,15,4,64,6.6,90,1080 x 2408 ,3,1,android,50,13,1,1024
